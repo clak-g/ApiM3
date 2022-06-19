@@ -1,0 +1,26 @@
+[
+    {
+        "idcli":"1",
+        "nombre":"Fulano",
+        "tipovh":"Carro",
+        "placavh":"akd098",
+        "marca":"mazda",
+        "modelo":"2017"
+    },
+    {
+        "idcli":"2",
+        "nombre":"Sultano",
+        "tipovh":"Moto",
+        "placavh":"hmy04b",
+        "marca":"akt",
+        "modelo":"2015"
+    },
+    {
+        "idcli":"3",
+        "nombre":"Mengano",
+        "tipovh":"Carro",
+        "placavh":"klo908",
+        "marca":"renault",
+        "modelo":"2010"
+    }
+]
